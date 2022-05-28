@@ -1,3 +1,3 @@
 # celestial-bodies-db
 
-DB in PostgreSQL on celestial bodies for practice
+DB in PostgreSQL on celestial bodies made for practice
