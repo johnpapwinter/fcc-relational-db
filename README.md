@@ -1,3 +1,3 @@
 # celestial-bodies-db
 
-DB in PostgreSQL on celestial bodies made for practice
+Simple database of celestial bodies created in PostgreSQL for practice
